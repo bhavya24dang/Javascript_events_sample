@@ -1,4 +1,4 @@
-var checklist = documents.getElementById("checklist");
+var checklist = document.getElementById("checklist");
 
 var items = checklist.querySelectorAll("li");
 var inputs = checklist.querySelectorAll("input");
