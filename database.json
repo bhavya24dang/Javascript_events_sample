@@ -1,0 +1,24 @@
+{
+	"records": [
+		{
+		"Name":"Bhavya",
+		"Age":"24",
+		"Fav_color":"red"
+		},
+		{
+			"Name":"Garima",
+			"Age":"22",
+			"Fav_color":"blue"
+		},
+		{
+			"Name":"Shivam",
+			"Age":"25",
+			"Fav_color":"orange"
+		},
+		{
+			"Name":"Anonymous",
+			"Age":"???",
+			"Fav_color":"black"
+		}
+	]	
+}
